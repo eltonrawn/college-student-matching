@@ -1,4 +1,4 @@
-# What it is?
+# What is it?
 A desktop application which is based on our nation’s medical admission process. What it actually does is, assign students/candidates to their preferred medical colleges based on their merit with certain priorities like quota system. Modified stable marriage algorithm is used to solve this problem.
 
 # About matching criteria
