@@ -1,0 +1,50 @@
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe.config
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.csprojResolveAssemblyReference.cache
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe.config
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe.config
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.csprojResolveAssemblyReference.cache
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe.config
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.csprojResolveAssemblyReference.cache
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe.config
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Core.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Data.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\bin\Debug\MedicalProgram.Entity.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.csprojResolveAssemblyReference.cache
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram.Core\obj\Debug\MedicalProgram.Core.pdb

@@ -1,0 +1,104 @@
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe.config
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csprojResolveAssemblyReference.cache
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CollegeDbView.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.Properties.Resources.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csproj.GenerateResource.Cache
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.exe
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.pdb
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateDbView.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateResDbView.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.LoginForm.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateForm.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceForm.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.AdminForm.resources
+c:\users\rawn\documents\visual studio 2013\Projects\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.FinalResView.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe.config
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.exe
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.AdminForm.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateDbView.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateForm.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateResDbView.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CollegeDbView.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.FinalResView.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.LoginForm.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceForm.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.Properties.Resources.resources
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Full Project\MedicalProgram\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceList.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe.config
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csprojResolveAssemblyReference.cache
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.AdminForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateDbView.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateResDbView.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CollegeDbView.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.FinalResView.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.LoginForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceList.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.Properties.Resources.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINE\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csproj.GenerateResource.Cache
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.exe
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.pdb
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csprojResolveAssemblyReference.cache
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.AdminForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.LoginForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceForm.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.Properties.Resources.resources
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csproj.GenerateResource.Cache
+C:\Users\Rawn\Desktop\c#Edited\0MINEv2\Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.EditSystemMPForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.exe
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Core.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Entity.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\bin\Debug\MedicalProgram.Data.pdb
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csprojResolveAssemblyReference.cache
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.AdminForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.CandidateForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.EditSystemMPForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.LoginForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.PreferenceForm.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.Properties.Resources.resources
+J:\GIT projects\c# Full Project\MedicalProgram\MedicalProgram\obj\Debug\MedicalProgram.csproj.GenerateResource.Cache
